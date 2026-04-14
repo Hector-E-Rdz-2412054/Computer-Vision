@@ -1,1 +1,8 @@
-deepface
+deepface==0.0.93
+opencv-python==4.9.0.80
+flask==3.0.3
+sqlalchemy==2.0.30
+numpy==1.26.4
+Pillow==10.4.0
+tensorflow==2.16.1
+tf-keras==2.16.0
